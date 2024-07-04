@@ -1,0 +1,236 @@
+,Amenity,Name,Latitude,Longitude,Id,Addr:City,Addr:Postcode,Addr:Street
+1,School,Classic,19.0835527,72.8384747,245668712,N/A,N/A,N/A
+2,School,Home for mental deficient childern,19.0436727,72.9256871,246446609,N/A,N/A,N/A
+3,School,Apostolic Carmel Convent (Girl's School),19.0550042,72.8262102,347125102,N/A,N/A,N/A
+4,School,Mount Mary's Convent High School,19.0462341,72.8225796,347125358,Mumbai,400050,Mount Mary Road
+5,School,Learners Academy,19.0554901,72.8253751,347168970,N/A,N/A,N/A
+6,School,Modern English School,19.065657,72.9063356,651265089,N/A,N/A,N/A
+7,School,Adivasi Ashramshala School,19.0266145,73.1727475,680015051,N/A,N/A,N/A
+8,School,Don Bosco Primary School,19.2312257,72.841711,814384677,N/A,N/A,N/A
+9,School,Don Bosco High School,19.2303902,72.8418808,814385412,Mumbai,400092,Chandavarkar Lane
+10,School,Nandadeep Vidyalay,19.1625315,72.8548539,984985842,N/A,N/A,N/A
+11,School,St Sebastian Goan High School,18.9490299,72.8229491,1029434267,N/A,N/A,N/A
+12,School,Muncipal Pahadi School,19.1644938,72.8553881,1142182289,N/A,N/A,N/A
+13,School,St. Thomas School,19.1670343,72.8498342,1168348915,N/A,N/A,N/A
+14,School,St. Thomas School Ground,19.1693345,72.8500761,1168348939,N/A,N/A,N/A
+15,School,Shantinagar School,19.209637,73.097137,1199843269,N/A,N/A,N/A
+16,School,NL High School,19.192628,72.8474592,1347702333,N/A,N/A,N/A
+17,School,Municipal Corporation Liberty Garden School,19.188526,72.8412266,1347723684,N/A,N/A,N/A
+18,School,Ajmera Global School,19.2331345,72.8467515,1352290055,N/A,N/A,N/A
+19,School,Himalaya High school,19.2174331,72.8529645,1354759161,N/A,N/A,N/A
+20,School,Sharda Gyanpeeth International School,19.1930649,72.8548987,1361567957,N/A,N/A,N/A
+21,School,St. Joseph High School,19.1904293,72.8569264,1361576661,N/A,N/A,N/A
+22,School,St. George High School,19.1893461,72.8563332,1361576666,N/A,N/A,N/A
+23,School,Universal High School,19.1885552,72.8505882,1361584423,N/A,N/A,N/A
+24,School,IB Patel School,19.1578421,72.8476552,1368753139,N/A,N/A,N/A
+25,School,Atharva College of Engineering,19.1977249,72.8270575,1416530124,N/A,N/A,N/A
+26,School,Tilak Nagar Vidya Mandir High School,19.2136045,73.0927192,1462083579,N/A,N/A,N/A
+27,School,Muncipal School,19.2271718,72.8597251,1496182478,N/A,N/A,N/A
+28,School,Shivaji School,19.1044999,72.8509934,1541880069,N/A,N/A,N/A
+29,School,khairat primary school,18.9196667,73.3002047,1566937742,N/A,N/A,N/A
+30,School,Vidhyamandir School,19.2549733,72.8604849,1646690981,N/A,N/A,Chatrapati Shivaji Road
+31,School,DNC High School Ground,19.2089371,73.0882834,1707873858,N/A,N/A,N/A
+32,School,G.R.Patil Vidyalaya,19.1873922,73.0925245,1712284110,N/A,N/A,N/A
+33,School,Raja Shivaji Vidya Mandir,19.2132365,72.9486036,1822484361,N/A,400606,Raja Shivaji School Road
+34,School,TMC Municipal School,19.2287366,72.9477801,1822485925,N/A,N/A,Palm Hill Resort Road
+35,School,Sai Lee International School,19.2308036,72.83875,1833267114,N/A,N/A,N/A
+36,School,Little Flower High School,19.2172685,72.9615534,1855273113,N/A,N/A,N/A
+37,School,Shri Kalgidar Mission High School,19.1098804,72.8656323,2188860671,N/A,N/A,JP Nagar Road
+38,School,South Indian School,19.2172432,73.0840956,2206292332,N/A,421202,KOPAR ROAD
+39,School,S.H. JONDHALE SCHOOL,19.2180685,73.0838933,2206292871,N/A,421202,N/A
+40,School,National Job Development Center,19.0524328,72.904674,2319154356,N/A,N/A,N/A
+41,School,Sevadaan Special School,19.0560049,72.9021934,2319171657,N/A,N/A,N/A
+42,School,Jawahar Vidya Bhawan,19.0391579,72.8974783,2319214080,"Chembur, Mumbai",400074,TEC Niwas Sthan Road
+43,School,St. Sebastian's High School,19.0396904,72.8980845,2319214081,"Chembur, Mumbai",400074,Ramakrishna Chemburkar Marg (Ghatkopar Mahul Road)
+44,School,Holy Cross Convent,19.1318859,72.8141999,2398524838,N/A,N/A,Aramnagar 1
+45,School,Edubridge Intl. School,18.9600399,72.815365,2457605417,N/A,N/A,N/A
+46,School,Padua High School,19.0464086,72.9290015,2567512028,N/A,N/A,N/A
+47,School,Z.P. SCHOOL,20.1222018,72.9209326,2572777176,TALASARI,401606,N/A
+48,School,Z P School savroli Dongaripada,20.1631711,72.9176477,2683201833,Talasari,401606,Savaroli
+49,School,Udhava Z P school,20.0926495,73.015899,2683232456,N/A,N/A,N/A
+50,School,Daffodil School,19.0623206,72.924533,2930729183,N/A,N/A,road no 8
+51,School,Z.P school 2,20.155414,72.9252526,3019641913,N/A,N/A,N/A
+52,School,z.p school MODGAON,20.072309,72.9749473,3026906191,N/A,N/A,N/A
+53,School,Azad School,19.0408975,72.9487218,3125232138,Mumbai,400088,M G Ramchandran Marg
+54,School,Sana Classes,19.0405291,72.9470838,3125242385,MUMBAI,400088,M G Ramchandran Marg
+55,School,Z.P.SCHOOL KODAD,20.1083978,72.9956734,3169860764,N/A,N/A,N/A
+56,School,sandesh school,19.1028771,72.9165625,3205774880,N/A,N/A,N/A
+57,School,Little Angels' High School,19.0372258,72.8550806,3205780114,Mumbai,N/A,Sulochana Shetty Marg
+58,School,Br. Nath Pai Vidyalaya,19.1505995,72.9278371,3207212808,N/A,400 078,Tembhipada Road
+59,School,Sushma Patil Vidhyalaya,19.0192762,73.0913965,3217156920,"kamothe, navi mumbai",N/A,N/A
+60,School,GYAN KENDRA SCHOOL,20.1891527,72.7527696,3226109079,N/A,N/A,N/A
+61,School,Madersa Ayesha Lil-Banat Education Trest,19.0714514,72.9207279,3226171882,Mumbai,400043,N/A
+62,School,Janana Sarita School Ground,19.1791851,72.9504583,3234610951,Mulund (West),N/A,Dr Rajendra Prasad Road
+63,School,Lohana Kanya Shala School,19.1782486,72.9509505,3234672821,Mulund (West),N/A,Subhash Chandra Bose Road
+64,School,Nav Bharat School,19.1783195,72.9508834,3234672822,Mulund (West),400080,Subhash Chandra Bose Road
+65,School,Cosmopolitan Education Society,19.1246547,72.8299769,3358927386,N/A,N/A,N/A
+66,School,Kishore Namit Kapoor Acting Institute,19.1398687,72.8194616,3434371521,N/A,N/A,N/A
+67,School,Yashodham High School & Jr. College,19.1734642,72.8665731,3469161205,N/A,N/A,N/A
+68,School,THERESA HIGH SCHOOL,19.0982356,72.8924407,3518468316,N/A,N/A,N/A
+69,School,Municipal Primary School,19.2043149,72.9817615,3589401882,N/A,N/A,N/A
+70,School,Guru Gobind English High School,19.122151,72.9345592,3602820589,N/A,N/A,N/A
+71,School,B.D. Somani International School,18.9160698,72.8199209,4044345936,Mumbai,400005,GD Somani Road
+72,School,D G Khetan International School,19.176347,72.8417834,4129555889,N/A,N/A,Goregaon Mulund Link Rd
+73,School,scool,20.0662092,72.8562795,4143921023,N/A,N/A,N/A
+74,School,z.p.school,20.1320861,72.8668994,4156993217,N/A,N/A,N/A
+75,School,American School of Bombay,19.067664,72.870696,4185780309,N/A,N/A,N/A
+76,School,Safari Kid,19.0614758,72.8292224,4247756492,N/A,400050,N/A
+77,School,Universal high school,19.2461807,72.9845766,4256155766,N/A,N/A,N/A
+78,School,Duruelo Convent High School,19.0608358,72.8327783,4303179586,N/A,N/A,N/A
+79,School,KPM High School,19.0950394,72.8877852,4326461790,N/A,N/A,90 Feet Road
+80,School,shri Ghanshamdas podhar vidyalay Rajasthani school,19.1115552,72.8679618,4348335890,N/A,N/A,JB Nagar Road
+81,School,Divine Providence High School,19.4179932,72.8106703,4443773462,belgaum,590006,"Tilakwadi, Belagavi Belgaum"
+82,School,Smt. Sushiladevi Deshmukh Vidyalaya,19.153089,72.9973971,4474486989,N/A,N/A,N/A
+83,School,Billabong International School,19.2024655,72.8213105,4498884750,N/A,N/A,N/A
+84,School,samarth vidyalay,19.190342,72.9982414,4590779989,N/A,N/A,N/A
+85,School,suvidyalay,19.2314533,72.8433059,4643901366,N/A,N/A,N/A
+86,School,Kashidas Ghelabhai High School,19.4584347,72.7760098,4682158002,N/A,N/A,N/A
+87,School,Poddar Brio International School,19.1368521,73.2507772,4734659656,N/A,N/A,N/A
+88,School,khemani school playground,19.2330432,73.1701758,4961733075,N/A,N/A,N/A
+89,School,Gaurav High School & Jr. College,19.0122519,73.0176553,5520349110,N/A,N/A,N/A
+90,School,School for ear-disabled,19.6881538,72.773324,5663434437,N/A,N/A,N/A
+91,School,Interaction Studio,19.1332499,72.9173753,5877650987,N/A,N/A,N/A
+92,School,Smt. Lilavatibai Podar High School,19.0810735,72.8371727,6212677778,Mumbai,400054,Saraswati Road
+93,School,Mohili Village Municipality School,19.100017,72.8920586,6238212123,N/A,N/A,N/A
+94,School,"MCGM, L K Waghji, Mumbai Public School",19.0271372,72.8516675,6423547527,"Matunga, Mumbai",400019,Bhimani Street
+95,School,Dnayneshwar Vidyalaya,19.008134,72.8543408,6442254811,N/A,N/A,N/A
+96,School,Madarsa (Tajweedul Islam),19.1259525,72.9188893,6801919188,N/A,N/A,N/A
+97,School,Tamarind Tree,19.9806285,72.7921829,6813436346,Sogve Village,401602,N/A
+98,School,New English High School,19.0669136,72.8497267,7213029294,N/A,N/A,N/A
+99,School,RBK School,19.3022067,72.8715741,7229791170,N/A,N/A,N/A
+100,School,Expert's International School,19.4634622,72.8036049,7399638848,N/A,N/A,N/A
+101,School,The Golden Spiral School,18.9737612,72.813493,7405089091,N/A,N/A,N/A
+102,School,"The Universal School, Tardeo",18.9651298,72.8140038,7405863748,N/A,N/A,N/A
+103,School,Grant Road Central High School,18.9634363,72.8159226,7405863749,N/A,N/A,N/A
+104,School,Tardeo Municipal Secondary School,18.9709943,72.8173698,7411177793,N/A,N/A,N/A
+105,School,Education Inspector South,18.9675962,72.8185191,7411177799,N/A,N/A,N/A
+106,School,Gilder Lane Muncipal School,18.9684792,72.8189721,7411177803,N/A,N/A,N/A
+107,School,Sadhvi Savitribai Phule Upper Primary School,18.9764347,72.8319417,7414783359,N/A,N/A,N/A
+108,School,Napoo High School,18.9871,72.8347715,7414791530,N/A,N/A,N/A
+109,School,Worli Seaface Municipal School,19.0086699,72.8157382,7425930335,N/A,N/A,Sir Pochkhanawala Road
+110,School,Worli Naka Upper Primary School-Tamil,18.9869676,72.8285467,7430392503,N/A,N/A,N/A
+111,School,KASTURBA GANDHI MUNICIPAL SCHOOL,18.9956112,72.8214434,7430392504,N/A,N/A,N/A
+112,School,Kamaladevi Gobindram Tahiliani High School,19.0058854,72.8304056,7434309486,N/A,N/A,N/A
+113,School,Pragati School,19.0209617,72.8356824,7442381761,N/A,N/A,"College Lane, MTNL Marg"
+114,School,St. Michaels English Primary School,19.0313861,72.8399288,7442381773,N/A,N/A,Jamshetji Road
+115,School,R.C.Mahim Municipal Urdu Primary,19.0295396,72.8400202,7442381774,N/A,N/A,L.J. Cross Road 2
+116,School,Shishuvihar Madhyamik Vidhyala,19.0224005,72.8477584,7442452600,N/A,N/A,N/A
+117,School,Saraswati Mandir School,19.0200022,72.8481813,7442452610,N/A,N/A,N/A
+118,School,Patkar Guruji Vidyalaya,19.0206415,72.8487774,7442452611,N/A,N/A,N/A
+119,School,Kranti Singh Nana Patil Vidyalaya,19.0108269,72.8480814,7453717287,N/A,N/A,N/A
+120,School,Bengali Education Society School,19.0121557,72.8451833,7453717290,N/A,N/A,N/A
+121,School,Matunga Labour Camp Upper Primary Marathi School,19.0358812,72.8527661,7453717309,N/A,N/A,N/A
+122,School,Shree Amulakh Amichand Bhimji Vividhlakshi Vidyalaya,19.0270588,72.8602496,7453717329,N/A,N/A,N/A
+123,School,I.H.Bhatia English Primary School,19.0263438,72.8604438,7453717330,N/A,N/A,N/A
+124,School,Sir Sayyad English High School,19.0366365,72.9456677,7463765598,N/A,N/A,N/A
+125,School,Crescent High School,19.0355691,72.9456677,7463765602,N/A,N/A,N/A
+126,School,Vivekanand English High School,19.0344233,72.9441845,7463765603,N/A,N/A,N/A
+127,School,Trombay Municipal Marathi School,19.0338443,72.9493518,7463765609,N/A,N/A,N/A
+128,School,Fazlani Star English High School and Junior College,19.0378275,72.951103,7463765611,N/A,N/A,N/A
+129,School,Trombay Public High School,19.0406739,72.948564,7463765612,N/A,N/A,N/A
+130,School,Rustomjee Cambridge International school,19.2433962,72.8572424,7484386953,MUMBAI,400092,Jayavant Sawant Road
+131,School,"Orchids The International School, Kurla",19.0678395,72.8791177,7896696885,Mumbai,400070,"S G Barve Marg, Kurla West"
+132,School,Sogve Zilla Parishad School,19.9827513,72.796739,7944548697,N/A,401602,N/A
+133,School,"St. Charles Girls' High chool, ground",19.0803065,72.855288,8100020840,N/A,N/A,N/A
+134,School,ST.AGUSTINE HIGH SCHOOL,19.3693153,72.81997,8333729189,MUMBAI,401202,Bassein Road
+135,School,Bhaskar School,19.2665306,73.1695535,8390493733,N/A,N/A,Ganesh Nagar
+136,School,Rainbow International School,19.2315327,72.9698829,8537797187,N/A,N/A,N/A
+137,School,All Saints High School,19.3161135,73.1271377,8853528389,N/A,N/A,N/A
+138,School,Prabhadevi Municipal School,19.0108648,72.828683,9055069383,N/A,N/A,N/A
+139,School,Guru Nank English High School,19.0124003,72.8446515,9055082839,N/A,N/A,N/A
+140,School,The Blossom English Primary School,18.938294,72.8280567,9056958182,N/A,N/A,N/A
+141,School,Bhausaheb Hiray Vidyalaya,18.973182,72.812634,9060641466,N/A,N/A,N/A
+142,School,VLN High School,18.9868553,72.8347508,9060840937,N/A,N/A,N/A
+143,School,Rims Internation School,19.1515079,72.8297934,9300003145,N/A,N/A,N/A
+144,School,HVPS College,19.150747,72.8306517,9300003146,N/A,N/A,N/A
+145,School,Goenka School,19.1507401,72.8307614,9300003147,N/A,N/A,N/A
+146,School,Marble the Arc,19.1506848,72.8309224,9300003148,N/A,N/A,N/A
+147,School,bmc ground,19.2094954,72.8625372,9443739333,N/A,N/A,Mahindra Flyover Western Express
+148,School,Jilha parishad school,19.8470329,73.1955998,9556151161,N/A,N/A,N/A
+149,School,Zilla Parishad School,19.8470354,73.1956018,9557013195,N/A,N/A,N/A
+150,School,School,19.8471315,73.1955856,9557140135,N/A,N/A,N/A
+151,School,"Zilla Parishad School, Umbervabgan",19.8342188,73.1806196,9557576652,N/A,N/A,N/A
+152,School,Zilla Parishad School Umbarvangan,19.8342813,73.1807039,9557661833,N/A,N/A,N/A
+153,School,Baalwadi,19.8471467,73.1951874,9558274105,N/A,N/A,N/A
+154,School,ZP school,19.8334852,73.182181,9558301058,N/A,N/A,N/A
+155,School,School,19.8342883,73.1806552,9558340896,N/A,N/A,N/A
+156,School,School,19.8307469,73.1869361,9561823081,N/A,N/A,N/A
+157,School,Aanganwadi,19.8377858,73.1941973,9563239815,N/A,N/A,N/A
+158,School,Zilla Parishad School (till 5th std.),19.8477034,73.203658,9565202492,N/A,N/A,N/A
+159,School,Swami Vivekananda Vidyamandir,19.2187255,73.0939795,9818806583,N/A,N/A,N/A
+160,School,Manjunath Vidyalaya,19.2152372,73.0965038,9818827081,N/A,N/A,N/A
+161,School,S.V.Joshi Highschool,19.22211,73.0932067,9818835347,N/A,N/A,N/A
+162,School,Greens English School,19.2096294,73.1069158,9868191834,N/A,N/A,N/A
+163,School,Sister Nivedita English School,19.2122395,73.1047798,9868191835,N/A,N/A,N/A
+164,School,Tilak Nagar Vidya Mandir,19.2119775,73.1045035,9868191836,N/A,N/A,N/A
+165,School,Waman roa,19.1740948,72.9673623,9887629177,N/A,N/A,N/A
+166,School,Sau Laxmibai,19.1670602,72.9640213,9887635360,N/A,N/A,N/A
+167,School,Yashwantroa Dode,19.1697442,72.9647746,9887675513,N/A,N/A,N/A
+168,School,VPM school,19.1619788,72.9550375,9887694431,N/A,N/A,N/A
+169,School,Amulakh amichand vidyalaya,19.0271011,72.8603055,10048595319,N/A,N/A,N/A
+170,School,ROYAL ENGLISH HIGH SCHOOL AND JR. COLLEG OF COMMERCE AND SCIENCE,19.2822495,72.7894537,10185533565,UTTAN,401107,Dhavgi Road
+171,School,NAVRATNA SOCIETY,19.2265894,72.8304592,10258986636,Mumbai,400091,Gorai Link Road
+172,School,Gayathri Vidya Mandir,19.1618123,72.9299819,10269097544,N/A,N/A,N/A
+173,School,ZP School Khedale,19.2597945,73.5473928,10603792304,N/A,N/A,N/A
+174,School,Ryan International School (ICSE),19.1723236,72.8726025,10607708286,Mumbai,400063,Krishna Vatika Marg
+175,School,Aspee Nutan English Medium School,19.1922983,72.8457233,10645494069,Mumbai,400064,Chunilal Giridharlal Road
+176,School,Z.P Marathi School,19.2959196,73.039624,10718967977,Bhiwandi,421302,Kariwali
+177,School,Podar International School,19.0790492,72.8379688,10878535991,N/A,N/A,Saraswati Road
+178,School,एल.बी.एस. विद्यालय,19.172706,73.0077978,10951466305,N/A,400708,Elthanpada
+179,School,Learner's Academy I.C.S.E School,19.061141,72.8270872,11296361349,N/A,N/A,N/A
+180,School,Mumbai Public School,19.1098119,72.852419,11426738529,N/A,N/A,N/A
+181,School,Juhu Tara Municipal School,19.0919763,72.8282127,11426739575,N/A,N/A,Juhu Tara Road
+182,School,Amity International School,19.0094021,73.0366023,11691647051,N/A,N/A,N/A
+183,School,S.M. Shetty School Ground,19.115227,72.9054975,11697877354,N/A,N/A,N/A
+184,School,IItian's PACE - Andheri,19.1203044,72.8454164,11698432789,N/A,N/A,N/A
+185,School,Aakash Institute,19.1194001,72.8455521,11698463569,N/A,N/A,N/A
+186,College,MMK College,19.0642652,72.8358458,347138192,N/A,N/A,N/A
+187,College,Rizvi College,19.0684106,72.8244647,348128686,N/A,N/A,N/A
+188,College,National Medical College,18.9789304,72.8144451,456160323,N/A,N/A,N/A
+189,College,Shailesh J Mehta Institute of Management,19.1317025,72.9157388,668494244,N/A,N/A,N/A
+190,College,IDC - Industrial Design Center,19.1333839,72.9171775,668511950,Mumbai,N/A,N/A
+191,College,Admin Building,19.1327013,72.9153012,668708219,N/A,N/A,N/A
+192,College,Gokhale College,19.2324515,72.8370011,814445159,N/A,N/A,N/A
+193,College,Nagindas Khandwala College,19.1925199,72.8479831,1347702321,N/A,N/A,N/A
+194,College,Sir JJ College of Commerce,18.9328461,72.8322155,2168654396,N/A,N/A,N/A
+195,College,"N.B.Mehta College, Bordi",20.1004338,72.7344023,2683225599,N/A,N/A,N/A
+196,College,B.D. Somani Institute of Art and Fashion Technology,18.9202962,72.8229426,4044345938,Mumbai,400005,GD Somani Road
+197,College,NUSE Offshore Training Institute,18.9744654,73.1992677,4871235392,N/A,N/A,N/A
+198,College,"Institute of Science, Colaba",18.9263126,72.8300134,6555983064,N/A,N/A,Karmaveer Bhaurao Patil Road
+199,College,St.Andrews College Gate,19.0572924,72.8287811,6813479053,N/A,N/A,N/A
+200,College,K.E.S Shroff college ground,19.201754,72.846543,7131459512,N/A,N/A,N/A
+201,College,New Viva College,19.4592714,72.800415,7194916878,N/A,N/A,N/A
+202,College,Nagrik Shikshan Sanstha's College Of Commerce & Economics,18.9734614,72.8127402,7405863760,N/A,N/A,N/A
+203,College,Navneet Education Society Night Degree College,18.9687473,72.8190128,7411177802,N/A,N/A,N/A
+204,College,Maratha Mandir's Babasaheb Gawde Institute of Technology,18.9708186,72.8220205,7411177813,N/A,N/A,N/A
+205,College,Sneha lata Rane Girls High School and Junior College,18.9861213,72.8316628,7434309508,N/A,N/A,N/A
+206,College,ABA College of Law,19.016964,72.8345634,7438485774,N/A,N/A,N/A
+207,College,"Government Technical High School & Jr. College, Dadar",19.019274,72.8320298,7438485782,N/A,N/A,N/A
+208,College,Kohinoor College of Hospitality Management & Tourism Studies,19.0229262,72.8358686,7442381763,N/A,N/A,N/A
+209,College,Dadar Vidya Mandir Junior College,19.028379,72.8415661,7442452588,N/A,N/A,N/A
+210,College,Saraswati College,19.0190223,72.841612,7442452591,N/A,N/A,N/A
+211,College,thomas bapista junior college,19.3530667,72.8131172,8420868172,Vasai,401200,Mahatma Gandhi Road
+212,College,Regal College,19.2439547,73.1288269,8957834994,N/A,N/A,N/A
+213,College,Bengali Education Society Junior College,19.0121138,72.8452751,9055082840,N/A,N/A,N/A
+214,College,Leelabai Thackersey College of Nursing,18.9383143,72.8282592,9056958181,N/A,N/A,N/A
+215,College,Bhausaheb Hiray College,18.9734103,72.812756,9060641467,N/A,N/A,N/A
+216,College,Babasaheb Gawde Institute of Management Studies,18.97074,72.8219929,9060708505,N/A,N/A,N/A
+217,College,Sasmira's Institute of Management Studies and Research,19.0101483,72.8198867,9062426516,N/A,N/A,N/A
+218,College,Sasmira's Institute of Man-made Textiles,19.0108465,72.8200915,9062444517,N/A,N/A,N/A
+219,College,Gokhale Education Socitey,19.9128481,73.2312762,9565208524,N/A,N/A,N/A
+220,College,ST.JOSHEP DEGREE COLLEG OF COMMERCE AND ARTS AND SCHOOL,19.2824962,72.7871244,10182496471,Uttan,401107,Church Road
+221,College,kes law college,19.2028619,72.8460116,10244121907,N/A,N/A,N/A
+222,College,JJ Academy,19.1776419,72.9416778,10250511726,N/A,N/A,N/A
+223,College,KJ Somaiya Institute of Technology,19.0461013,72.8713418,11309847332,N/A,N/A,N/A
+224,College,Aryabhatta Stairs,19.0734422,72.8994818,11545969011,Mumbai,400077,Somaiya College Road
+225,College,Chanfrabhan Sharma collehe of arts & science,19.1165643,72.9027598,11697998052,N/A,N/A,N/A
+226,College,Sinhgad College of Commerce,19.1132882,72.8965304,11698444657,N/A,N/A,N/A
+227,University,Swami Educational Society-Madurai Kamaraj University,18.9706634,72.8170518,7411177794,N/A,N/A,N/A
+228,University,The Dadar Parsee Youths Assembly High School,19.0179439,72.8535649,7453717295,N/A,N/A,N/A
+229,University,"NAVAL KG School, TS MAHUL",19.0107347,72.8905446,7463752320,N/A,N/A,N/A
+230,University,Tata Power Skill Development Institute,19.0219525,72.9257834,7463765591,N/A,N/A,N/A
+231,University,Kendriya Vidyalaya Mankhurd,19.0392488,72.9393322,7463765613,N/A,N/A,N/A
+232,University,"Naval KG School,Mankhurd",19.0391251,72.938827,7463765614,N/A,N/A,N/A
+233,University,"NOFRA, Mankhurd",19.039155,72.9400359,7463765615,N/A,N/A,N/A
+234,University,Atomic Energy Central School -1,19.0408105,72.9200122,7463765700,N/A,N/A,N/A
+235,University,Naval Maritime Academy,18.8952175,72.8105378,9652365665,N/A,N/A,N/A
